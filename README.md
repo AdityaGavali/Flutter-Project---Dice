@@ -2,7 +2,7 @@
 
 A new Flutter project.
 It is a flutter project with functionality.
-You can make the die roll at the press of a button using this application.
+You can make the dice roll at the press of a button using this application.
 
 ## Getting Started
 
